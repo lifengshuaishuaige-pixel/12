@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Plate -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,18 C36.5,18 23,31.5 23,49 L23,75 C23,86.5 36.5,100 54,100 C71.5,100 85,86.5 85,75 L85,49 C85,31.5 71.5,18 54,18 Z" />
+    <!-- Fork -->
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M38,35 L42,35 L42,58 C42,62 39,65 35,65 C31,65 28,62 28,58 L28,35 L32,35 L32,52 L40,52 L40,35 L44,35 L44,28 L38,28 Z" />
+    <!-- Knife -->
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M70,35 L66,35 L66,58 C66,62 69,65 73,65 C77,65 80,62 80,58 L80,35 L76,35 L76,52 L68,52 L68,35 L64,35 L64,28 L70,28 Z" />
+    <!-- Steam lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,15 Q45,8 48,2 M54,12 Q54,5 54,0 M60,15 Q63,8 60,2"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+</vector>
